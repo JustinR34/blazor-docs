@@ -104,7 +104,7 @@ Resize Note column or double click on a row to see the product details
 }
 
 <style>
-    .custom-ellipsis {
+    .custom-ellipsis.k-table-td {
         overflow: hidden;
         max-height: 60px;
         text-overflow: ellipsis;
